@@ -1,0 +1,2 @@
+/* rev-d1a70b-20260909 LangList.txt */
+ocr language table 40+ for v26.001.21781

@@ -1,0 +1,2 @@
+/* rev-d1a70b-20260909 ScanNotes.txt */
+flat scan with no text layer needs ocr before word export

@@ -1,0 +1,2 @@
+/* rev-d1a70b-20260909 Assoc.txt */
+set default app for .pdf if edge still owns the association
